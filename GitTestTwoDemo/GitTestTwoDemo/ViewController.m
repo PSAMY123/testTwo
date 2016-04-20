@@ -19,6 +19,8 @@
     NSLog(@"菲晚你好棒!哈哈");
     
     // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"提交测试一");
+    NSLog(@"提交测试二");
 }
 
 - (void)didReceiveMemoryWarning {
